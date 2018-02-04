@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YotaTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_video">Video:</string>
+    <string name="dialog_article">Article:</string>
+    <string name="info_dialog">Additional info:</string>
+</resources>
